@@ -57,7 +57,7 @@ almost every available Greek token.
 ### Columns
 
  * book/chapter/verse
-   * unlike MorphGNT, I use `BJ.chap.verse` where `chap` is the chapter number and `verse` is the verse number.
+   * unlike MorphGNT, I use `PJ.chap.verse` where `chap` is the chapter number and `verse` is the verse number.
  * part of speech
  * parsing code
  * text (including punctuation)
