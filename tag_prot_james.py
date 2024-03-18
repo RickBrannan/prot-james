@@ -32,8 +32,9 @@ morphgnt_files = ['61-Mt-morphgnt.txt', '62-Mk-morphgnt.txt', '63-Lk-morphgnt.tx
                   '85-3Jn-morphgnt.txt', '86-Jud-morphgnt.txt', '87-Re-morphgnt.txt']
 
 # output dir
-source_dir = "c:/git/RickBrannan/prot-james/data/text/"
-output_dir = "c:/git/RickBrannan/prot-james/data/morph/"
+root_dir = "c:/git/RickBrannan/prot-james/"
+source_dir = f"{root_dir}data/text/"
+output_dir = f"{root_dir}data/morph/"
 
 # nlp
 # greek_model = "grc_proiel_sm"
