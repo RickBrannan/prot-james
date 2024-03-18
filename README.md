@@ -1,5 +1,6 @@
 # prot-james
-An effort at creating an openly available, morphologically annotated edition of the _Protevangelium of James_.
+An effort at creating a freely-available, openly-licensed, morphologically annotated edition of 
+the _Protevangelium of James_.
 
 ## License
 This work (data) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
