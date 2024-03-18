@@ -9,9 +9,9 @@ The code (python scripts) are licensed under the MIT License.
 
 ## Protevangelium of James Greek Morphology
 
-This project uses the OpenText.org edition of the _Protevangelium of James_ as its basis, which OpenText.org have 
-licensed as [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/). Regarding source and original license 
-of the Greek text, the following note is in the data provided by OpenText.org:
+This project uses the OpenText.org edition of the _Protevangelium of James_ ([found here](https://github.com/OpenText-org/non_NT_annotation/tree/master/proto-james)) 
+as its basis, which OpenText.org have licensed as [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/). 
+Regarding source and original license of the Greek text, the following note is in the data provided by OpenText.org:
 
 > This text is freeware. Originally transcribed by Rolf Mainz in Bremen, Germany on an Atari computer (!). Transferred 
 > to PC formate by Wieland Willker. The text is basically a mixture of codex C (Paris 1454, 10th CE, considered by 
