@@ -2,6 +2,9 @@
 An effort at creating a freely-available, openly-licensed, morphologically annotated edition of 
 the _Protevangelium of James_.
 
+For more information on the _Protevangelium of James_ see the entry in NASSCAL's e-Clavis:
+[Protevangelium of James](https://www.nasscal.com/e-clavis-christian-apocrypha/protevangelium-of-james/)
+
 ## License
 This work (data) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
 ([CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)).
